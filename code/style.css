@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: yellow;
+
+}
+
+main {
+    margin: auto;
+    width: 45%;
+    background-color: aqua;
+    padding-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form input[type = "number"] {
+
+    width: 200px;
+}
+
+p , label {
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: left;
+
+}
+
+input {
+    display: inline-block;
+}
+
+
+
+div {
+    height: auto;
+}
+
+.answers-div {
+    padding-bottom: 20px;
+}
+
+.correctOrWrong {
+    text-align: center;
+}
